@@ -1,0 +1,89 @@
+# ===========================
+# Python
+# ===========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+*.egg
+dist/
+build/
+*.whl
+
+# Virtual environments
+*_env/
+venv/
+.venv/
+env/
+spacy_env/
+spacy_project/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# ===========================
+# R
+# ===========================
+.RData
+.Rhistory
+.Rproj.user/
+*.Rproj
+
+# ===========================
+# OS & IDE
+# ===========================
+.DS_Store
+Thumbs.db
+*.lnk
+.vscode/
+.idea/
+
+# ===========================
+# Microsoft Office temp files
+# ===========================
+~$*
+
+# ===========================
+# Videos (too large for GitHub)
+# ===========================
+*.mp4
+*.mov
+*.avi
+*.wmv
+
+# ===========================
+# Sensitive / Personal
+# ===========================
+*.env
+.env
+Password*
+*CV*.docx
+*Transcript*
+*Certificate*
+
+# ===========================
+# Large data files (by name)
+# ===========================
+appointments_regional.csv
+national_categories.xlsx
+actual_duration.csv
+Book1.csv
+sales.csv
+sg_studentdata_unlocked.csv
+
+# ===========================
+# Directories to exclude
+# ===========================
+ZIP files/
+copy/
+extracted_images/
+Archive/
+Classes/
+Notes/
+
+# ===========================
+# Misc
+# ===========================
+*- Copy*
+*.npy
