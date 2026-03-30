@@ -64,20 +64,18 @@ Team 11 capstone project analysing Study Group Singapore's student data. Applied
 ```
 LSE-Data-Analytics-Portfolio/
 ├── course-1-business-analytics/
-│   ├── assignment-2market/          SQL queries, Tableau dashboards, report
-│   └── selected-coursework/         Best Tableau and SQL exercises
+│   └── assignment-2market/              SQL queries, Tableau dashboards, report
 ├── course-2-python/
-│   ├── assignment-nhs-analysis/     NHS diagnostic analysis notebook and report
-│   └── selected-coursework/         Best Python notebooks across modules
+│   └── assignment-nhs-analysis/         NHS diagnostic analysis notebook and report
 ├── course-3-advanced-analytics/
-│   ├── assignment-turtle-games/     Predictive analytics notebook (Python + R)
-│   ├── masterclass-*/               Linear and logistic regression masterclasses
-│   └── selected-coursework/         Best ML and R notebooks
+│   └── assignment-turtle-games/         Predictive analytics (Python + R)
 ├── course-4-employer-project/
-│   ├── team-deliverables/           Final report, slides, dashboard, team notebooks
-│   ├── individual-analysis/         EDA, classification, clustering, time series
-│   └── data/                        Cleaned dataset
-└── DA1xx_*.md                       Detailed course descriptions
+│   ├── assignment-1-project-scope/      Project roadmap and scope document
+│   ├── assignment-2-initial-pitch/      Initial recommendation pitch
+│   ├── assignment-3-final-report/       Final report, slides, dashboard, notebooks
+│   ├── assignment-4-reflection/         Individual reflection
+│   └── individual-analysis/             EDA, classification, clustering, time series
+└── DA1xx_*.md                           Detailed course descriptions
 ```
 
 ---

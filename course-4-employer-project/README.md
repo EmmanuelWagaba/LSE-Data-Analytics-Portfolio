@@ -17,17 +17,41 @@ Applied a multi-model analytical approach:
 - **K-means Clustering** -- unsupervised segmentation of student groups
 - **Time Series Analysis** -- temporal patterns in student data
 
-### Team Deliverables
+---
+
+### Assignment 1: Project Scope and Plan
 
 | File | Description |
 |------|-------------|
-| `team-deliverables/Team 11_LSE_EP_Assignment3_Final report.docx` | Final technical report |
-| `team-deliverables/Team 11_LSE_EP_Assignment3_presentation_slides.pdf` | Final presentation |
-| `team-deliverables/Team 11_LSE_EP_Assignment3_Tableau_Dashboard.twbx` | Interactive Tableau dashboard |
-| `team-deliverables/Team11_LSE_EP_Assignment3_LRM.ipynb` | Linear regression model |
-| `team-deliverables/Team11_LSE_EP_Assignment3_Exploratory_&_Discount_by_Dimension_Analysis .ipynb` | EDA and discount analysis |
-| `team-deliverables/Team11_LSE_EP_Assignment3_Logical_Regression.ipynb` | Logistic regression analysis |
-| `team-deliverables/Team11_LSE_EP__Assignment3_Random_Forest_Classifier.ipynb` | Random forest classification |
+| `assignment-1-project-scope/Team11_LSE_EP_Project_Roadmap-1.xlsx` | Project roadmap and timeline |
+| `assignment-1-project-scope/Team11_LSE_EP_Assignment1v2.pdf` | Scope and plan document |
+
+### Assignment 2: Initial Recommendation Pitch
+
+| File | Description |
+|------|-------------|
+| `assignment-2-initial-pitch/Team 11 First Pitch PPT.pptx` | Initial recommendation presentation |
+
+### Assignment 3: Final Report and Presentation
+
+| File | Description |
+|------|-------------|
+| `assignment-3-final-report/Team 11_LSE_EP_Assignment3_Final report.pdf` | Final technical report |
+| `assignment-3-final-report/Team11_LSE_EP_Assignment3_presentation_slides-1.pdf` | Final presentation slides |
+| `assignment-3-final-report/Team 11_LSE_EP_Assignment3_Tableau_Dashboard-1.twbx` | Interactive Tableau dashboard |
+| `assignment-3-final-report/Team11_LSE_EP_Assignment3_Logical_Regression-1.ipynb` | Logistic regression analysis |
+| `assignment-3-final-report/Team11_LSE_EP__Assignment3_Random_Forest_Classifier-1.ipynb` | Random forest classification |
+| `assignment-3-final-report/Team11_LSE_EP_Assignment3_Exploratory_&_Discount_by_Dimension_Analysis -1.ipynb` | EDA and discount analysis |
+| `assignment-3-final-report/Team11_LSE_EP_Assignment3_LRM.ipynb` | Linear regression model |
+| `assignment-3-final-report/sg_studentdata_cleaned-1.xlsx` | Cleaned student dataset (7.5 MB) |
+
+### Assignment 4: Individual Reflection
+
+| File | Description |
+|------|-------------|
+| `assignment-4-reflection/Wagaba_Emmanuel_LSE_EP_Assignment4.pdf` | Individual reflection |
+
+---
 
 ### Individual Analysis (Emmanuel Wagaba)
 
@@ -39,12 +63,6 @@ Applied a multi-model analytical approach:
 | `individual-analysis/study-group-logistic-regression-final.ipynb` | Logistic regression (final version) |
 | `individual-analysis/study-group-predictive-analysis.ipynb` | Predictive modelling |
 | `individual-analysis/study-group-time-series.ipynb` | Time series analysis |
-
-### Data
-
-| File | Description |
-|------|-------------|
-| `data/sg_studentdata_cleaned.xlsx` | Cleaned student dataset (7.5 MB) |
 
 ### Tools
 
